@@ -10,4 +10,6 @@ complete.cases(datas)
 #Exploratory data analysis
 summary(datas[1])
 
+#Splitting
+
 
