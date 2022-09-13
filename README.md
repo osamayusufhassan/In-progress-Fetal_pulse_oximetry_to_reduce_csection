@@ -1,0 +1,2 @@
+# Non-Invasive Transabdominal Fetal Pulse Oximetry and Its Effect in Reduction of Caesarian Section Deliveries 
+R&amp;D based medical where the main goal is to reduce Caesarian section deliveres. The data driven approach comprises of training a machine learning model to predict the mode of delivery (Caesarian Section or Spontaneous Vaginal Delivery) based on various real time prebrith and post birth medical parameters of the expecting mothers and their babies.
