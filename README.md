@@ -5,5 +5,4 @@ The data driven approach comprises of training a machine learning model i.e. Log
 
 ![image](https://user-images.githubusercontent.com/97184600/190151573-a79ac71e-4375-4cd2-ad49-b07174b9d5b4.png)
 
-
-
+![image](https://user-images.githubusercontent.com/97184600/190862692-9c72375a-be2f-460d-9f10-532086874753.png)
