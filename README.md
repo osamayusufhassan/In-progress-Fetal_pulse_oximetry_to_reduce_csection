@@ -21,7 +21,7 @@ Build, train and fit a machine learning model that will predict the mode of deli
 • Model validation and model evaluation of the logistic regression model based on different performance indicators and techniques. <br />
 • Predicting mode of delivery using Logistic Regression model.<br />
 
-### Fisher's Exact Test on Categorical (Nominal) Variables:
+### Relation between features derived from various medical parameters and Mode of Delivery:
 ![image](https://user-images.githubusercontent.com/97184600/194116107-4b434a3f-1cd8-4d13-a350-fe61983e7fcb.png)
 ![image](https://user-images.githubusercontent.com/97184600/194116241-c22c3ecf-82d4-4e0c-87ad-1db4a6561662.png)
 
