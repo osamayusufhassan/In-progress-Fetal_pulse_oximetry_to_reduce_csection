@@ -19,4 +19,10 @@ Build, train and fit a machine learning model that will predict the mode of deli
 • Feature Engineering by means of implementing Principal Component Analysis as part of Dimensionality Reduction technique. This reduces the number of features/dimensionalities of the given data set, while minimizing information loss and retaining interpretability in the reduced data set. <br />
 • Train Logistic Regression model using training data to predict whether a Cesarean-Section procedure should be performed on an expectant mother to deliver her baby. <br />
 • Model validation and model evaluation of the logistic regression model based on different performance indicators and techniques. <br />
-• Predicting mode of delivery using Logistic Regression model.
+• Predicting mode of delivery using Logistic Regression model.<br />
+
+### Fisher's Exact Test on Categorical (Nominal) Variables:
+![image](https://user-images.githubusercontent.com/97184600/194116107-4b434a3f-1cd8-4d13-a350-fe61983e7fcb.png)
+![image](https://user-images.githubusercontent.com/97184600/194116241-c22c3ecf-82d4-4e0c-87ad-1db4a6561662.png)
+
+
