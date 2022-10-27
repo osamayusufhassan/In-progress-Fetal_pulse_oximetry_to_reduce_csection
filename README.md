@@ -25,4 +25,5 @@ Build, train and fit a machine learning model that will predict the mode of deli
 ![image](https://user-images.githubusercontent.com/97184600/194116107-4b434a3f-1cd8-4d13-a350-fe61983e7fcb.png)
 ![image](https://user-images.githubusercontent.com/97184600/194116241-c22c3ecf-82d4-4e0c-87ad-1db4a6561662.png)
 
-
+### Data visualizaton for continuous variables readings (Systolic Blood Pressure & Diastolic Pressure) categorized by Mode of Delivery (C-Section and Spontaneous Vaginal Delivery):
+![BP VS Readings](https://user-images.githubusercontent.com/97184600/198228208-b29b1926-33d0-48e4-b4b3-35cbe1647b2b.png)
